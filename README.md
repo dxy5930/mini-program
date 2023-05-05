@@ -1,4 +1,4 @@
-# mini-program created by cli
+# use uniapp mini-program created by cli
 
 ## Project setup
 ```
