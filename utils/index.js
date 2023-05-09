@@ -4,6 +4,7 @@
  Email 1053227515@qq.com
  */
 /** uniapp-api**/
+/* eslint-disable */
 export function navigate(url, params = {}) {
   try {
     url += (url?.indexOf("?") < 0 ? "?" : "&") + param(params);
